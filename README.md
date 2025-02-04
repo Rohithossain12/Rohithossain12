@@ -39,7 +39,6 @@ It's me,Rohit hossain. I am a  with a Full Stack Developer. I am passionately cu
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
 
 ## 💻 Familiar
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
