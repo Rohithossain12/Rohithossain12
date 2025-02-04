@@ -58,7 +58,8 @@ It's me,Rohit hossain. I am a  with a Full Stack Developer. I am passionately cu
 
 ### Business
 
-:rafidislamrohit576@gmail.com
+:email: &emsp;rafidislamrohit576@gmail.com
+
 
 ### Profile Visits
 
