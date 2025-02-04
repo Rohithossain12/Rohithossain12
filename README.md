@@ -10,7 +10,7 @@ It's me,Rohit hossain. I am a MERN Stack Web Developer with a background in Comp
 
 ### Github Stats
 
-![Neasher github stats](https://github-readme-stats.vercel.app/api?username=neasher1&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Neasher github stats](https://github-readme-stats.vercel.app/api?username=Rohithossain12&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neasher1&layout=compact&theme=tokyonight&hide")
 
