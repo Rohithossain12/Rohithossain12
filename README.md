@@ -49,7 +49,7 @@ It's me,Rohit hossain. I am a  with a Full Stack Developer. I am passionately cu
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --> 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohithossain12&theme=react&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohithossain12) 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -61,5 +61,5 @@ It's me,Rohit hossain. I am a  with a Full Stack Developer. I am passionately cu
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rohithossain12)
+![visitors](https://views.gonzalohirsch.com/gh?user=Rohithossain12)
 
