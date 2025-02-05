@@ -25,7 +25,7 @@ It's me,Rohit hossain. I am a  with a Full Stack Developer. I am passionately cu
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![DaisyUI Badge](https://img.shields.io/badge/-DaisyUI-0D1117?style=for-the-badge&labelColor=black&logo=daisy&logoColor=FF6F61)](#)
-[![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+
 
 
 
