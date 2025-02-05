@@ -1,5 +1,5 @@
 
-<img src="https://ibb.co.com/Xf4j8fbt" alt="Banner Image" style="width: 100%; height: auto;"/>
+<img src="https://your-image-link.jpg" alt="Banner Image" style="width: 100%; height: auto;"/>
 
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Full Stack Developer;" alt="Typing SVG" /></a></p>
