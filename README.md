@@ -3,7 +3,7 @@
 <p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Fontend Developer;" alt="Typing SVG" /></a></p>
 
 ### Hi there my gorgeous friend👋
-I am Rohit Hossain, a Full Stack Developer. I am passionately curious about learning and writing code. I am a quick learner, which is my strength. Besides, I am always eager to explore new technologies and can easily adapt to them. Gradually, I have been improving my interpersonal skills and strategic thinking.
+I am Rohit Hossain, a Fontend Developer. I am passionately curious about learning and writing code. I am a quick learner, which is my strength. Besides, I am always eager to explore new technologies and can easily adapt to them. Gradually, I have been improving my interpersonal skills and strategic thinking.
 
 
 ### Github Stats
