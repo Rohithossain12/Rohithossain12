@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co.com/BHCJxgGq/Gradient-Geometric-Creative-Agency-Linked-In-Banner-1.png)
+![Banner Image](https://i.ibb.co/BHCJxgG/Gradient-Geometric-Creative-Agency-Linked-In-Banner-1.png)
 
 <p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Fontend Developer;" alt="Typing SVG" /></a></p>
 
